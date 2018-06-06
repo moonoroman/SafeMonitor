@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">SafeMonitor</string>
+    <string name="binder_service_name">.Monitor.BinderDataCollectService</string>
+    <string name="cpu_service_name">.Monitor.CpuDataCollectService</string>
+
+    <string name="backword">返回</string>
+
+    <string name="btn_getLocation">获取位置信息</string>
+    <string name="btn_sendMessage">发送短信</string>
+    <string name="btn_getPhoneNum">获取本机号码</string>
+    <string name="btn_getImei">获取IMEI</string>
+    <string name="btn_call">拨打电话</string>
+    <string name="btn_setDataEnabled">打开移动网络</string>
+
+
+</resources>

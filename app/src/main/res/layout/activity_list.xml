@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:orientation="vertical"
+              android:layout_width="match_parent"
+              android:layout_height="match_parent">
+
+    <Button
+        android:id="@+id/btn_getLocation"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:text="@string/btn_getLocation"/>
+
+    <Button
+        android:id="@+id/btn_sendMessage"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:text="@string/btn_sendMessage"/>
+
+    <Button
+        android:id="@+id/btn_getPhoneNum"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:text="@string/btn_getPhoneNum"/>
+
+    <Button
+        android:id="@+id/btn_getImei"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:text="@string/btn_getImei"/>
+
+    <Button
+        android:id="@+id/btn_call"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:text="@string/btn_call"/>
+
+    <Button
+        android:id="@+id/btn_setDataEnabled"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:text="@string/btn_setDataEnabled"/>
+
+
+</LinearLayout>
